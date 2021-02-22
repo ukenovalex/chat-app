@@ -1,0 +1,9 @@
+.messages {
+    background-color: rgb(255, 245, 217);
+    border-left: 3px solid rgb(158, 184, 255);
+    border-right: 3px solid rgb(158, 184, 255);
+    padding: 15px 15px;
+    
+    max-height: 400px;
+    height: 300px;
+}

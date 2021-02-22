@@ -1,0 +1,31 @@
+.messageConrainer {
+    width: 300px;
+    background-color: rgb(72, 72, 255);
+    display: flex;
+    align-items: center;
+    color: #fff;
+    padding: 5px 15px;
+    border-radius: 30px;
+    margin: 15px 0;
+}
+.sentText {
+    font-size: 15px;
+    font-style: italic;
+    color: rgb(182, 216, 255);
+}
+.pl-10 {
+    padding-right: 10px;
+    color:rgb(206, 69, 199);
+}
+.pr-10 {
+    padding-right: 10px;
+}
+.justifyEnd {
+    float: right;
+}
+.backgroundLight {
+    color:rgb(117, 0, 133);
+}
+.justifyStart {
+    background-color: rgb(255, 221, 221);
+}

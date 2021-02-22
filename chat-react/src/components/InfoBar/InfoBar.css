@@ -1,0 +1,35 @@
+.infoBar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 3px solid rgb(158, 184, 255);
+    border-top-left-radius: 10px; 
+    border-top-right-radius: 10px;
+    padding: 10px;
+    background-color: rgb(170, 252, 255);
+}
+.leftInnerContainer {
+    color:rgb(96, 96, 255);
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.leftInnerContainer h3 {
+    display: flex;
+    align-items: center;
+}
+.leftInnerContainer span {
+    color:rgb(18, 18, 238);
+    font-size: 16px;
+    margin-left: 10px;
+}
+
+.close {
+    text-decoration: none;
+    color: aliceblue;
+    padding: 10px 15px;
+    background-color: rgb(238, 108, 108);
+    border-radius: 10px;
+}
+.close:hover {
+    background-color: rgb(231, 81, 81);
+}
